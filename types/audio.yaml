@@ -1624,7 +1624,7 @@
   - webm
   registered: false
 - !ruby/object:MIME::Type
-  content-type: audio/x-aac
+  content-type: audio/aac
   friendly:
     en: Advanced Audio Coding (AAC)
   encoding: base64

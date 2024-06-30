@@ -2054,7 +2054,7 @@ audio/vorbis
 audio/vorbis-config
 audio/wav wav
 audio/webm weba webm
-audio/x-aac aac
+audio/aac aac
 audio/x-aiff aif aifc aiff
 audio/x-caf caf
 audio/x-flac flac
